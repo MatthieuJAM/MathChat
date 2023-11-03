@@ -1,0 +1,9 @@
+# PLUGIN MADE BY MATTHIEUJAM (discord: matthieujam2)
+# MathChat
+# V1.0.0
+
+ask: "§6MathChat > §7Quel est le résultat de §e{calcul} §7pour 64 diamants ?" #{calcul}
+win: "§6MathChat > §7Bravo à §e{player} §7la réponse était §e{resultat}§7." #{player} {resultat}
+win_cmd: "give {player} diamond" #{player}
+
+delay: 300
